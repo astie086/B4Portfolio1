@@ -32,3 +32,10 @@ header,
     padding-left:10px;
     padding-right:10px;
 }
+
+#art-intro {
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 170px;
+    text-align: center;
+    }
