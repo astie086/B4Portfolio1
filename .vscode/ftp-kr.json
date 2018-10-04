@@ -1,0 +1,16 @@
+{
+    "host": "107.180.34.197",
+    "username": "mpysj5qvd6sp",
+    "password": "Shanti086!",
+    "remotePath": "public_html",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

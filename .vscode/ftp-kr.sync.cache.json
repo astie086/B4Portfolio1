@@ -1,0 +1,116 @@
+{
+  "ftp://107.180.34.197@mpysj5qvd6sp": {
+    ".bash_logout": {
+      "type": "-",
+      "size": 100,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bash_profile": {
+      "type": "-",
+      "size": 176,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bashrc": {
+      "type": "-",
+      "size": 124,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".cagefs": {},
+    ".cl.selector": {},
+    ".contactemail": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".cpanel": {},
+    ".cphorde": {},
+    ".gemrc": {
+      "type": "-",
+      "size": 143,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".htpasswds": {},
+    ".lastlogin": {
+      "type": "-",
+      "size": 129,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".md5sum": {
+      "type": "-",
+      "size": 33,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".spamassassin": {},
+    ".spamassassinenable": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".trash": {},
+    ".zshrc": {
+      "type": "-",
+      "size": 658,
+      "lmtime": 0,
+      "modified": false
+    },
+    "access-logs": {
+      "type": "l",
+      "size": 38,
+      "lmtime": 0,
+      "modified": false
+    },
+    "etc": {},
+    "logs": {},
+    "mail": {},
+    "public_ftp": {},
+    "public_html": {
+      ".git": {},
+      "License.pdf": {
+        "type": "-",
+        "size": 33875,
+        "lmtime": 0,
+        "modified": false
+      },
+      "README.txt": {
+        "type": "-",
+        "size": 773,
+        "lmtime": 0,
+        "modified": false
+      },
+      "css": {},
+      "font": {},
+      "img": {},
+      "index.html": {
+        "type": "-",
+        "size": 12805,
+        "lmtime": 0,
+        "modified": false
+      },
+      "js": {},
+      "license.txt": {
+        "type": "-",
+        "size": 10196,
+        "lmtime": 0,
+        "modified": false
+      },
+      "scss": {}
+    },
+    "ssl": {},
+    "tmp": {},
+    "www": {
+      "type": "l",
+      "size": 11,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}
